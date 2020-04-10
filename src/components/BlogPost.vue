@@ -8,7 +8,7 @@
         <v-container>
           <v-row v-if="user.id === blog.author.id" cols="12">
             <div>
-              <v-btn text color="yellow darken-3" @click="showEditDialog">Edit</v-btn>
+              <v-btn text color="teal green accent-3" @click="showEditDialog">Edit</v-btn>
               <v-btn text color="red" @click="deletePost(blog.id)">Delete</v-btn>
             </div>
           </v-row>

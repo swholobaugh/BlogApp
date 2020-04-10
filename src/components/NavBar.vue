@@ -1,8 +1,8 @@
 <template>
-  <v-app-bar app color="primary" dark>
+  <v-app-bar app color="green lighten-1" dark>
     <v-toolbar-title class="font-weight-light">
-      <span>My</span>
-      <span class="font-weight-regular">Blog</span>
+      <span>Ultimate</span>
+      <span class="font-weight-regular">BlogApp</span>
     </v-toolbar-title>
 
     <v-spacer />
